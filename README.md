@@ -1,2 +1,2 @@
-# darwins
-Programa para la gestion de darwins
+# series
+Programa para la gestion de series
